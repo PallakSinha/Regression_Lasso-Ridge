@@ -32,12 +32,4 @@ Build a regression model to accurately estimate property prices using historical
 - Actual vs Predicted prices
 
 ## ✅ Conclusion
-The model effectively captures major price drivers and can support pricing decisions in real estate.
-
-## 🚀 Future Improvements
-- Hyperparameter tuning
-- Try Gradient Boosting or XGBoost
-- Deploy as a web app
-
-## 👤 Author
-Pallak Sinha
+The model effectively captures major price drivers and can support pricing decisions in real estate.llak Sinha
